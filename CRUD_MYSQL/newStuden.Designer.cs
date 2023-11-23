@@ -47,7 +47,7 @@
             // 
             // panel1
             // 
-            panel1.BackColor = Color.SlateBlue;
+            panel1.BackColor = Color.Orchid;
             panel1.Controls.Add(label1);
             panel1.Location = new Point(-2, 2);
             panel1.Name = "panel1";
@@ -85,7 +85,7 @@
             // 
             // button2
             // 
-            button2.BackColor = Color.WhiteSmoke;
+            button2.BackColor = Color.Crimson;
             button2.ForeColor = SystemColors.ActiveBorder;
             button2.Location = new Point(217, 292);
             button2.Name = "button2";
